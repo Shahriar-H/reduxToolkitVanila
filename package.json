@@ -6,7 +6,7 @@
   "scripts": {
    "start": "node index.js",
   },
-  "author": "",
+  "author": "Shaki",
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
