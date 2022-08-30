@@ -1,0 +1,17 @@
+{
+  "name": "json_placeholder",
+  "version": "1.0.0",
+  "description": "Project Play with Json Placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   "start": "node index",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "node-fetch": "^2.6.7",
+    "redux-logger": "^3.0.6"
+  }
+}
