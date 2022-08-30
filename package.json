@@ -1,6 +1,9 @@
 {
   "name": "json_placeholder",
   "version": "1.0.0",
+  "engines": {
+   "node": "12.11.1"
+   },
   "description": "Project Play with Json Placeholder",
   "main": "index.js",
  "scripts": {
