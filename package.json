@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Project Play with Json Placeholder",
   "main": "index.js",
-  "scripts": {
-   "start": "node index.js",
-  },
+ "scripts": {
+        "start": "node server.js"
+    },
   "author": "Shaki",
   "license": "ISC",
   "dependencies": {
